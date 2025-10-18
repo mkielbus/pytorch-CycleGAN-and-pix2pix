@@ -15,7 +15,7 @@ setup(
     version="1.0.0",
     packages=find_packages(exclude=["tests"]),
     url="https://github.com/mkielbus/pytorch-CycleGAN-and-pix2pix.git",
-    license="MIT License",
+    license="BSD License",
     description=get_description(),
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
